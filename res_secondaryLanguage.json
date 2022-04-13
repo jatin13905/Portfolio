@@ -1,0 +1,112 @@
+{
+    "basic_info": {
+      "description_header": "Cześć",
+      "description": "👋 Sou Jatin Kumar Indivíduo positivo e confiante, apto para aprender novas tecnologias e habilidades. Estou trabalhando com os mais novos frameworks front-end como React e Sass. Interesso-me pela posição de Desenvolvedor Front-End, trazendo alguma experiência em front-end endtechnologies e alguma experiência mínima em MySQL. Quer se tornar um desenvolvedor full stack e tem trabalhado nisso constantemente. Obrigado 💜",
+      "section_name": {
+        "about": "O mnie",
+        "projects": "Projekty",
+        "skills": "Umiejętności"
+      }
+    },
+    "projects": [
+      {
+        "title": "Weather API",
+        "startDate": "2020",
+        "description": "O aplicativo mais expandido com o qual tive a oportunidade de trabalhar. Aprendi muitas tecnologias e meu código foi revisado por um curador incrível. Aplicação lida com todas as condições meteorológicas para todas as cidades, estados e países.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "To-Do List",
+        "startDate": "2020",
+        "description": "Um dos primeiros aplicativos que eu estava trabalhando em minhas habilidades. Eu tive que desenvolver a implementação de front-end para um aplicativo que mostra o To-Do apenas no front-end. Este também foi meu primeiro projeto no framework React. Eu aprendi muito!        ",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Crypto App",
+        "startDate": "2022",
+        "description": "Personal project for study subject. It's in under process condition and I'm not working on it currently as I'm focusing on backend and DSA skills :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+
+
+
+    "experience": [
+      {
+        "company": "Youtube",
+        "title": "Full-Stack Developement",
+        "years": "2021-present",
+        "mainTech": [
+          "Node JS"
+        ],
+        "technologies": [
+          "Node JS",
+          "Django",
+          "JavaScript",
+          "Rest API",
+          "Express JS",
+          "Basic Dastabase"
+        ]
+      },
+       {
+        "company": "Coursera",
+        "title": "Front-End Developement Course",
+        "years": "2020",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "HTML",
+          "CSS",
+          "SASS"
+        ]
+      }
+
+    ]
+  }

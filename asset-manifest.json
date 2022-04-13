@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jatin13905/Portfolio/static/css/main.4960ad98.css",
+    "main.js": "/jatin13905/Portfolio/static/js/main.081c567f.js",
+    "static/media/resume.jpg": "/jatin13905/Portfolio/static/media/resume.fc2c9ef09e2198e563cc.jpg",
+    "static/media/blue_background_image.jpg": "/jatin13905/Portfolio/static/media/blue_background_image.6e67c14f8acc99c4f2d9.jpg",
+    "index.html": "/jatin13905/Portfolio/index.html",
+    "main.4960ad98.css.map": "/jatin13905/Portfolio/static/css/main.4960ad98.css.map",
+    "main.081c567f.js.map": "/jatin13905/Portfolio/static/js/main.081c567f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4960ad98.css",
+    "static/js/main.081c567f.js"
+  ]
+}
